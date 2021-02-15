@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+img{
+   border-radius: 50%;
+    width: 300px;
+}
+ul{
+    list-style: none;
+}
+span{
+    color: cornflowerblue;
+}
+.c{
+    box-shadow: 5px 5px 18px grey;
+   background:lightblue;
+    color: #e851d9;
+}
